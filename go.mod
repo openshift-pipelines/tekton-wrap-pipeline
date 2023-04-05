@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/codeclysm/extract/v3 v3.1.0
 	github.com/google/go-containerregistry v0.13.0
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/tektoncd/pipeline v0.45.0
 	k8s.io/apimachinery v0.25.4
 	k8s.io/client-go v0.25.4
@@ -48,7 +48,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5 // indirect
